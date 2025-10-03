@@ -42,7 +42,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository  
    bash
-   git clone https://github.com/Sasikuamr/Router-Algo.git
+   git clone https://github.com/venkatesudondla/-Router-Algorithm
 2. Navigate into the project directory
    bash
    cd Router-Algo
